@@ -8,7 +8,7 @@ Hi, this is a creative professional multi page Portfolio Website Template built 
   
   Step 2 : cd Portfolio
   
-  Step 3 : npm install
+  Step 3 : npm installl
   
   Step 4 : npm start
 
