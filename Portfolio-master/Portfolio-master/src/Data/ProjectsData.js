@@ -1,7 +1,7 @@
 const DUMMY_PROJECTS=[
     {
         projectTitle:'PFE',
-        description: 'This project is a React app to generate a creative professional website based on Data provided. The website uses no backend and is free to fork and use.',
+        description: 'pour lire le rapport, merci de click dessus.',
         sourceLink:'https://www.youtube.com/watch?v=DDrqX4h9Mp4',
         lastUpdated:'Janvier  2024'
     },
